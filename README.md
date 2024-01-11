@@ -1,11 +1,9 @@
 
-<img src="https://foruda.gitee.com/images/1696898411260291907/b4af9f02_12260.png" alt="flowlong" width="100px" height="100px">
+# lq-admin
 
-# qing-admin
+- 轻量构建、简单好用！
 
-- 轻量搭配、简单好用！
-
-[qing-admin 轻前端管理框架](https://gitee.com/aizuda/qing-admin) [演示地址 https://qingadmin.gitee.io/](https://qingadmin.gitee.io/)
+[lq-admin 轻量级前端管理框架](https://github.com/lq0910/lq-admin.git) [演示地址 https://lq0910.github.io/](https://lq0910.github.io/)
 
 ## 技术栈
 
@@ -16,21 +14,4 @@
 
 - 表格
 
-![表格1](https://foruda.gitee.com/images/1696059961473574003/163f4bfd_12260.png)
-
-![表格2](https://foruda.gitee.com/images/1696060067660743966/9a6fc4cd_12260.png)
-
-- 表单
-
-![表格1](https://foruda.gitee.com/images/1696060116773878837/2c2dfbbe_12260.png)
-
-![表格2](https://foruda.gitee.com/images/1696060248148750151/6e2c912d_12260.png)
-
-- 黑暗模式
-
-![黑暗1](https://foruda.gitee.com/images/1696060322238813143/d20bb6ad_12260.png)
-
-- 灰色模式
-
-![黑暗1](https://foruda.gitee.com/images/1696060365171208624/a955927c_12260.png)
-
+![系统首页](https://github.com/lq0910/lq-admin/blob/main/docs/home.png)
